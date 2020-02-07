@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\tommal\Desktop\projects\botJava\.metadata\.plugins\org.eclipse.jdt.core
+8112098.index
+2915480775.index

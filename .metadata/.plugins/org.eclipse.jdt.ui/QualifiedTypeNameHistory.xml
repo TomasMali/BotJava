@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.model.Update"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.UpdatesListener"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.response.SendResponse"/>
+<fullyQualifiedTypeName name="com.pengrad.telegrambot.request.SendMessage"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.bots.TelegramLongPollingBot"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.api.objects.Update"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.api.methods.send.SendMessage"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.exceptions.TelegramApiException"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.ApiContextInitializer"/>
+<fullyQualifiedTypeName name="org.telegram.telegrambots.TelegramBotsApi"/>
+</qualifiedTypeNameHistroy>
