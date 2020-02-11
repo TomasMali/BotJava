@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+/home/tommal/Scrivania/MipaafStatusDoc/WorkspaceBot/.metadata/.plugins/org.eclipse.jdt.core
+1651921422.index
+1856221.index
+3435234828.index
+195514672.index
+2717009482.index
+74749763.index
+257630908.index
+3316385881.index
+1869468097.index
+890318875.index
+664839579.index
+3795944265.index
+1501147708.index
+3179848525.index
+3909247886.index
+1666852769.index
+3583031408.index
+3926243894.index
+3766192175.index
+1791309128.index
